@@ -10,9 +10,10 @@
 # Esses valores são somados e o resultado é exibido para o usuário.
 #
 # Exemplo de uso: ./Questao01.sh
-
+#
 #########################################
 
+clear
 echo "======== Somando valores ========"
 echo ""
 echo "Ao executar o script, insira os valores que deseja somar como parâmetros (logo após o comando de execução, separado por espaço)"
